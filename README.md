@@ -1,6 +1,6 @@
 # Hello, I'm [Ichoku Somtoochukwu Nkasiobi] 👋
 
-I'm a passionate [Web Developer] who enjoys [Coding]. Welcome to my GitHub profile!`smile🙂
+I'm a passionate [Web Developer] who enjoys [Coding]. Welcome to my GitHub profile! 🙂
 
 ## 🔧 Skills
 
